@@ -1,8 +1,8 @@
-<!-- Code-First Deep Threat Modeling Workflow | Version 2.1.0 | https://github.com/fr33d3m0n/skill-threat-modeling | License: BSD-3-Clause | Welcome to cite but please retain all sources and declarations -->
+<!-- Code-First Deep Threat Modeling Workflow | Version 2.1.1 | https://github.com/fr33d3m0n/skill-threat-modeling | License: BSD-3-Clause | Welcome to cite but please retain all sources and declarations -->
 
 # Code-First Deep Risk Analysis Skill
 
-**Code-First Automated Threat Modeling Toolkit** | Version 2.1.0
+**Code-First Automated Threat Modeling Toolkit** | Version 2.1.1
 
 8-Phase Serial Workflow · Dual Knowledge Base Architecture · STRIDE+CWE+CAPEC+ATT&CK Full Chain Mapping
 
@@ -365,4 +365,4 @@ E(Elev. of Priv) → CWE-269/284/862 → CAPEC-122/233/17  → T1068/T1548 → C
 
 ---
 
-**Version 2.1.0** | [中文版](README-cn.md)
+**Version 2.1.1** | [中文版](README-cn.md)
